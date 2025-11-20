@@ -1,4 +1,4 @@
-Google Antigravity 문서
+### Google Antigravity 문서 ###
 본 문서는 공식 Google Antigravity 문서의 핵심 개념, 기능 및 사용법을 다루는 포괄적인 요약입니다.
 1. 소개
 Google Antigravity는 전통적인 IDE를 에이전트 우선 경험으로 진화시킨 에이전트 개발 플랫폼입니다. 개발자가 친숙한 AI IDE 핵심을 유지하면서 워크스페이스 전반에 걸쳐 에이전트를 관리하여 더 높은 작업 지향적 수준에서 작업할 수 있도록 합니다.
